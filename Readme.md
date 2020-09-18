@@ -7,3 +7,5 @@ Teste arquivo
 2ª Modificação do arquivo
 
 3ª Modificação do arquivo
+
+Então esse é o tal do git diff? =)
