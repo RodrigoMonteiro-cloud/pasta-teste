@@ -9,3 +9,6 @@ Teste arquivo
 3ª Modificação do arquivo
 
 Então esse é o tal do git diff? =)
+
+git commit -am " " já comita sem precisar adicionar um arquivo já existente?
+E eu aqui fazendo git add file toda vez antes de comitar...
