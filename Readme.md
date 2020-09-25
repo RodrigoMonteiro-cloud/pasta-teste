@@ -13,4 +13,4 @@ Então esse é o tal do git diff? =)
 git commit -am " " já comita sem precisar adicionar um arquivo já existente?
 E eu aqui fazendo git add file toda vez antes de comitar...
 
-Insersão de revisão, relaxa.
+Insersão de revisão, relaxa brow.
