@@ -15,4 +15,4 @@ E eu aqui fazendo git add file toda vez antes de comitar...
 
 Insersão de revisão, relaxa brow.
 
-Vamos ver isso vai subir para o github =)
+Vamos ver se isso vai subir para o github =)
